@@ -22,15 +22,15 @@
 	- For tomorrow
 	  - Lecture 3 - ...
 	  - Lecture 4 - ...
-- Wednesday:
- - 12:30 to 1:15 - Exercise, ML Basics with Keras (2)
-	  - Basic Image Classification
-	  - Regression, Overfit & underfit
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
-	- For tomorrow
-	  - Lecture 5 - ...
-	  - Lecture 6 - ...
+- Wednesday: 
+  - 12:30 to 1:15 - Exercise, ML Basics with Keras (2)
+    - Basic Image Classification
+    - Regression, Overfit & underfit
+  - 1:30 to 2:00 - Small groups
+  - 2:00 to 2:20 - Reconvene
+  - For tomorrow
+    - Lecture 5 - ...
+    - Lecture 6 - ...
 - Thursday: 
   - Project 1 - social distancing detector
 - Saturday:  Lab due by 5PM
