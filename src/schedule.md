@@ -12,6 +12,8 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 1 - [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0)
+		- Dailies (due by Saturday at 5PM)
+			- [July 6th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_6_monday1.pdf)
 
 - Tuesday:
 	- 12:30 to 1:15 - Exercise, ML Basics with Keras (1)
@@ -20,6 +22,8 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 2 - [First Steps in Computer Vision by Laurence Maroney](https://www.youtube.com/watch?v=j-35y1M9rRU)
+		- Dailies (due by Saturday at 5PM)
+			- [July 7th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_7_tuesday2.pdf)
 
 - Wednesday:
 	- 12:30 to 1:15 - Exercise, ML Basics with Keras (2)
@@ -29,10 +33,18 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 3 - [Convolutions and pooling by Laurence Maroney](https://www.youtube.com/watch?v=PCgLmzkRM38)
+		- Dailies (due by Saturday at 5PM)
+			- [July 8th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_8_wednesday3.pdf)
 
 - Thursday:
 	- Project 1 - Social distancing detector
-- Saturday:  Lab due by 5PM
+	- For tomorrow
+		- Dailies (due by Saturday at 5PM)
+			- [July 9th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_9_thursday4.pdf)
+
+- Saturday:
+	- Project 1 due by 5PM
+	- Daily Responses due by 5PM 
 
 ### Week 2 (July 13)
 
@@ -44,6 +56,8 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 4 - [Coding with Convolutional Neural Networks](https://www.youtube.com/watch?v=dd8H4fiL9Yc)
+		- Dailies (due by Saturday at 5PM)
+			- [July 13th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_13_monday5.pdf)
 
 - Tuesday:
 	- 12:30 to 1:15 - Load and preprocess data
@@ -52,7 +66,9 @@
 	- 1:30 to 2:00 - Small groups
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
-	  - Lecture 5 - [Classifying real-world images](https://www.youtube.com/watch?v=0kYIZE8Gl90&t=71s)
+		- Lecture 5 - [Classifying real-world images](https://www.youtube.com/watch?v=0kYIZE8Gl90&t=71s)
+		- Dailies (due by Saturday at 5PM)
+			- [July 14th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_14_tuesday6.pdf)
 
 - Wednesday:
 	- 12:30 to 1:15 - Estimator (1)
@@ -61,11 +77,19 @@
 	- 1:30 to 2:00 - Small groups
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
-	  - Lecture 6 - [Convolutional cats and dogs](https://www.youtube.com/watch?v=nq7_ZYJPWf0&t=167s)
+		- Lecture 6 - [Convolutional cats and dogs](https://www.youtube.com/watch?v=nq7_ZYJPWf0&t=167s)
+		- Dailies (due by Saturday at 5PM)
+			- [July 15th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_15_wednesday7.pdf)
 
 - Thursday: 
 	- Project 2 - Modeling COVID-19
-- Saturday: Lab due by 5PM
+	- For tomorrow
+		- Dailies (due by Saturday at 5PM)
+			- [July 16th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_16_thursday8.pdf)
+
+- Saturday:
+	- Project 2 due by 5PM
+	- Daily Responses due by 5PM
 
 ### Week 3 (July 20)
 
@@ -98,7 +122,10 @@
 
 - Thursday:
 	- Project 3 - Generative images
-- Saturday: Lab due by 5PM
+
+- Saturday:
+	- Project 3 due by 5PM
+	- Daily Responses due by 5PM
 
 ### Week 4 (July 27)
 
@@ -126,9 +153,13 @@
 		- [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
 	- 1:30 to 2:00 - Small groups
 	- 2:00 to 2:20 - Reconvene
+
 - Thursday:
-	- Project 4 - Generative text 
-- Saturday: Lab due by 5PM
+	- Project 4 - Generative text
+ 
+- Saturday:
+	- Project 4 due by 5PM
+	- Daily Responses due by 5PM
 
 ### Week 5 (August 3)
 
@@ -140,9 +171,13 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow 
 		- Final Project Proposal
+
 - Tuesday: TBD
+
 - Wednesday: TBD
-- Thursday: Workshop in preparation for Data Science Summer Showcase
+
+- Thursday:
+	- Workshop in preparation for Data Science Summer Showcase
 
 - Friday:
 	- 2:30pm - First Annual Data Science Summer Showcase
