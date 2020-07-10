@@ -19,4 +19,5 @@
 - [Anthony J. Ventura](https://acejv21.github.io/Ace_Code/)
 - [Paul Brenkus](https://pbrink10.github.io/Paul-Brenkus.github.io/)
 - [Sarena Oberoi](https://sarenaoberoi.github.io/Responses/)
+- [Lily Bartholomaus](https://lmbartholomaus.github.io/Data310public/)
 
