@@ -1,0 +1,21 @@
+# Links to Responses
+
+- [Alex Raposo](https://aeraposo.github.io/Data-310-Public-Raposo/)
+- [Luke Denoncourt](https://luked77.github.io/Machine_Learning2/)
+- [Caroline Wall](https://caroline-wall.github.io/applied_machine_learning_public/)
+- [Daniel Highland](https://dehighland.github.io/Daniel-Highland-Data-310-Public/)
+- [Maddy Mulder](https://memulder.github.io/AppliedMachineLearningPublic/)
+- [Roger Clanton](https://rmclanton.github.io/DS310_public/)
+- [Matthew Cheng](https://mcheng13.github.io/machine_learning_site/)
+- [Caroline Freshcorn](https://csstarfish.github.io/Machine-Learning/)
+- [Caitlin Bryant](https://caitlin0806.github.io/responses)
+- [Maddie Sharpe](https://m-sharpe.github.io/response-ml/)
+- [Alex Huang](https://ashuang2013.github.io/public/)
+- [John Hennin](https://johnhennin.github.io/jhrep_public/)
+- [Devika Puri](https://dpuri-wm.github.io/Machine-Learning/)
+- [Annette Lopez Davila](https://annetteclopezdavila.github.io/Annette-s-Responses/)
+- [Kathryn Johnson](https://github.com/katwjohnson/DATA310_Public)
+- [Jennifer Lam](https://jlam01.github.io/jlam01-machine-learning/)
+- [Anthony J. Ventura](https://acejv21.github.io/Ace_Code/)
+- [Paul Brenkus](https://pbrink10.github.io/Paul-Brenkus.github.io/)
+
