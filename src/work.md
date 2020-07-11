@@ -20,4 +20,7 @@
 - [Paul Brenkus](https://pbrink10.github.io/Paul-Brenkus.github.io/)
 - [Sarena Oberoi](https://sarenaoberoi.github.io/Responses/)
 - [Lily Bartholomaus](https://lmbartholomaus.github.io/Data310public/)
+- [Darrin Lilly](https://darrinlilly.github.io/DATA-310/)
+- [David Huang](https://dshuangg.github.io/responses/)
+- [Tommy Williams](https://ktwilliams15.github.io/Responses/)
 
