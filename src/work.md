@@ -23,4 +23,6 @@
 - [Darrin Lilly](https://darrinlilly.github.io/DATA-310/)
 - [David Huang](https://dshuangg.github.io/responses/)
 - [Tommy Williams](https://ktwilliams15.github.io/Responses/)
+- [Youjin Lee](https://github.com/Youjin14/DATA-310-Applied-Machine-Learning)
+- [Chai Hibbert](https://c-hibbert.github.io/DATA_310_Notes/)
 
