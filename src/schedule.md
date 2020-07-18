@@ -82,7 +82,7 @@
 			- [July 15th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_15_wednesday7.pdf)
 
 - Thursday: 
-	- Project 2 - Modeling COVID-19
+	- Project 2 - Create some Art!
 	- For tomorrow
 		- Dailies (due by Saturday at 5PM)
 			- [July 16th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_16_thursday8.pdf)
