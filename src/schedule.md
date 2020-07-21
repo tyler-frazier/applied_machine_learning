@@ -101,6 +101,8 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 7 - [Image augmentation and overfitting](https://www.youtube.com/watch?v=QWdYWwW6OAE&t=7s)
+		- Dailies (due by Saturday at 5PM)
+			- [July 20th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_20_monday9.pdf)
 
 - Tuesday:
 	- 12:30 to 1:15 - Images (1)
@@ -110,6 +112,7 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 8 - [Tokenization for Natural Language Processing](https://www.youtube.com/watch?v=f5YJA5mQD5c&t=14s)
+		- [July 21st](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_21_tuesday10.pdf)
 
 - Wednesday:
 	- 12:30 to 1:15 - Images (2)
@@ -119,9 +122,11 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 9 - [Tokenization for Natural Language Processing](https://www.youtube.com/watch?v=f5YJA5mQD5c&t=14s)
+		- [July 22nd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_22_wednesday11.pdf)
 
 - Thursday:
-	- Project 3 - Generative images
+	- Project 3 - 
+	- [July 23rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_23_thursday12.pdf)
 
 - Saturday:
 	- Project 3 due by 5PM
