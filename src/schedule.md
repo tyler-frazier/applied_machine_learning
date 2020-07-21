@@ -112,7 +112,8 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 8 - [Tokenization for Natural Language Processing](https://www.youtube.com/watch?v=f5YJA5mQD5c&t=14s)
-		- [July 21st](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_21_tuesday10.pdf)
+		- Dailies (due by Saturday at 5PM)
+			- [July 21st](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_21_tuesday10.pdf)
 
 - Wednesday:
 	- 12:30 to 1:15 - Images (2)
@@ -122,11 +123,14 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Lecture 9 - [Tokenization for Natural Language Processing](https://www.youtube.com/watch?v=f5YJA5mQD5c&t=14s)
-		- [July 22nd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_22_wednesday11.pdf)
+		- Dailies (due by Saturday at 5PM)
+			- [July 22nd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_22_wednesday11.pdf)
 
 - Thursday:
-	- Project 3 - 
-	- [July 23rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_23_thursday12.pdf)
+	- Project 3
+	- For tomorrow
+		- Dailies (due by Saturday at 5PM)
+			- [July 23rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_23_thursday12.pdf)
 
 - Saturday:
 	- Project 3 due by 5PM
