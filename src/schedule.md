@@ -133,8 +133,9 @@
 			- [July 23rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_23_thursday12.pdf)
 
 - Saturday:
-	- Project 3 due by 5PM
 	- Daily Responses due by 5PM
+- Sunday
+	- Project 3 due by midnight
 
 ### Week 4 (July 27)
 
