@@ -155,7 +155,8 @@
 	- 1:30 to 2:00 - Small groups
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
-		- Final Project Proposal
+		- Dailies (due by Saturday at 5PM)
+			- [July 28rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_28_tuesday14.pdf)
 
 - Wednesday: 
 	- 12:30 to 1:15 - Text (2) 
@@ -163,9 +164,15 @@
 		- [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
 	- 1:30 to 2:00 - Small groups
 	- 2:00 to 2:20 - Reconvene
+	- For tomorrow
+		- Dailies (due by Saturday at 5PM)
+			- [July 29th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_29_wednesday15.pdf)
 
 - Thursday:
 	- Project 4 - Generative text
+	- For tomorrow
+		- Dailies (due by Saturday at 5PM)
+			- [July 30th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_30_thursday16.pdf)
  
 - Saturday:
 	- Project 4 due by 5PM
