@@ -156,7 +156,7 @@
 	- 2:00 to 2:20 - Reconvene
 	- For tomorrow
 		- Dailies (due by Saturday at 5PM)
-			- [July 28rd](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_28_tuesday14.pdf)
+			- [July 28th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_28_tuesday14.pdf)
 
 - Wednesday: 
 	- 12:30 to 1:15 - Text (2) 
