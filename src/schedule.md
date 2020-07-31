@@ -175,28 +175,23 @@
 			- [July 30th](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/7_30_thursday16.pdf)
  
 - Saturday:
-	- Project 4 due by 5PM
 	- Daily Responses due by 5PM
 
 ### Week 5 (August 3)
 
 - Monday: 
-	- 12:30 to 1:15 - Text (3) 
-		- [Image captioning](https://www.tensorflow.org/tutorials/text/image_captioning)
-		- [Transfer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- Project 4 - Impromptu Performance of Generative Text
 	- For tomorrow 
-		- Final Project Proposal
+		- Final Project Workshop
 
-- Tuesday: TBD
+- Tuesday: Final Project Workshop
 
-- Wednesday: TBD
+- Wednesday: Final Project Workshop
 
 - Thursday:
-	- Workshop in preparation for Data Science Summer Showcase
+	- Final Project Presentation (Everyone)
 
-- Friday:
+- Friday: (in association with your public speaking course)
 	- 2:30pm - First Annual Data Science Summer Showcase
 		- 7-9 minute presentation
 		- Judges:
