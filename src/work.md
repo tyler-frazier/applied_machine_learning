@@ -14,7 +14,7 @@
 - [John Hennin](https://johnhennin.github.io/jhrep_public/)
 - [Devika Puri](https://dpuri-wm.github.io/Machine-Learning/)
 - [Annette Lopez Davila](https://annetteclopezdavila.github.io/Annette-s-Responses/)
-- [Kathryn Johnson](https://github.com/katwjohnson/DATA310_Public)
+- [Kathryn Johnson](https://katwjohnson.github.io/DATA310_Public/)
 - [Jennifer Lam](https://jlam01.github.io/jlam01-machine-learning/)
 - [Anthony J. Ventura](https://acejv21.github.io/Ace_Code/)
 - [Paul Brenkus](https://pbrink10.github.io/Paul-Brenkus.github.io/)

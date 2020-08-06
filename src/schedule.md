@@ -179,9 +179,9 @@
 
 ### Week 5 (August 3)
 
-- Monday: 
+- Monday:
 	- Project 4 - Impromptu Performance of Generative Text
-	- For tomorrow 
+	- For tomorrow
 		- Final Project Workshop
 
 - Tuesday: Final Project Workshop
