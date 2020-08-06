@@ -184,7 +184,8 @@
 	- For tomorrow
 		- Final Project Workshop
 
-- Tuesday: Final Project Workshop
+- Tuesday:
+	- [Final Project Assignment](https://github.com/tyler-frazier/applied_machine_learning/blob/master/dailies/8_04_tuesday18.pdf)
 
 - Wednesday: Final Project Workshop
 
