@@ -41,7 +41,7 @@
 - Wednesday:
 	- Module 1.3
 - Friday:
-	- Module 1.3
+	- Project 1
 
 ## Week 6 (3/1)
 - Monday:
@@ -63,7 +63,7 @@
 	- Module 2.3
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
-	- Module 2.3
+	- Project 2
 
 ## Week 9 (3/22)
 - Monday:
@@ -86,7 +86,7 @@
 	- Module 3.3
 - Wednesday: Spring Break Day, No Class (4/7)
 - Friday:
-	- Module 3.3
+	- Project 3
 
 ## Week 12 (4/12)
 - Monday:
@@ -109,7 +109,7 @@
 - Wednesday:
 	- Module 4.3
 - Friday:
-	- Module 4.3
+	- Project 4
 
 ## Week 15 (5/3)
 - Monday:
