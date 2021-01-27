@@ -1,16 +1,16 @@
 # DATA 310: Applied Machine Learning
 
 Course ID: DATA 310   
-Course Attribute:   
+Course Attribute: None  
 Title: Applied Machine Learning  
 Credit Hours: 3  
-Meeting Times: 12:30 to 2:20 MTWTh  
-Location: Online and Remote via Live Broadcast  
-Date Range: Jul 06,2020 - Aug 07,2020  
+Meeting Times: 12:00 to 12:50 MWF  
+Location: Remote Synchronous Off-Campus  
+Date Range: Spring Semester 2021  
 
 # Course Description
 
-This course will focus on the technical application of machine learning algorithms, their nature, and discussions regarding the potential drawbacks and advantages of different classes of algorithms. Students entering into this course should have, at a minimum, a background in python and linear algebra. No single algorithm will be covered in great depth, and the course will place a focus on the code and implementation choices necessary for each class of algorithm. Topics covered will include data processing, regression in ML, decision trees, forests, k-nn, support vector machines, kernel SVM, k-means and hierarchical clustering, association rules, natural language processing, neural networks, and various associated approaches.Pre-requisite(s): (DATA 141 OR DATA 140 OR CSCI 140 OR CSCI 141) AND (DATA 146 OR CSCI 146)
+This course will focus on the technical application of machine learning algorithms, their nature, and discussions regarding the potential drawbacks and advantages of different classes of algorithms. Students entering into this course should have, at a minimum, a background in python and linear algebra. No single algorithm will be covered in great depth, and the course will place a focus on the code and implementation choices necessary for each class of algorithm. Topics covered will include data processing, regression in ML, decision trees, forests, k-nn, support vector machines, kernel SVM, k-means and hierarchical clustering, association rules, natural language processing, neural networks, and various associated approaches. Pre-requisite(s): (DATA 141 OR DATA 140 OR CSCI 140 OR CSCI 141) AND (DATA 146 OR CSCI 146)
 
 # Goals and Objectives:
 - To provide students with a critical understanding of the variety of tools that can be used for machine learning.
@@ -25,7 +25,7 @@ The Pledge
 “As a member of the William and Mary community, I pledge on my honor not to lie, cheat, or steal, either in my academic or personal life. I understand that such acts violate the Honor Code and undermine the community of trust, of which we are all stewards.”
 
 # Accessibility, Attendance & Universal Learning
-William & Mary accommodates students with disabilities in accordance with federal laws and university policy. Any student who feels s/he may need an accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis should contact Student Accessibility Services staff at 757-221-2509 or at sas@wm.edu to determine if accommodations are warranted and to obtain an official letter of accommodation. For more information, please see www.wm.edu/sas.
+William & Mary accommodates students with disabilities in accordance with federal laws and university policy. Any student who feels s/he may need accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis should contact Student Accessibility Services staff at 757-221-2509 or at sas@wm.edu to determine if accommodations are warranted and to obtain an official letter of accommodation. For more information, please see www.wm.edu/sas.
 
 I am committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. Active, thoughtful, and respectful participation in all aspects of the course will make our time together as productive and engaging as possible.
 
@@ -47,4 +47,4 @@ note .9 = .9 with bar notation
 | --- | --- | --- |
 | Exercises | 40% | 4 modules |
 | Projects | 40% | 4 projects |
-| Final Project | 20% | Due at end of week 5 |
+| Final Project | 20% | due by 5PM on the last day of finals |
