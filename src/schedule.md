@@ -14,6 +14,8 @@
 ## Week 2 (2/1)
 - Monday:
 	- Using PyCharm
+	- For next time:
+	  [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0)
 - Wednesday:
 	- Using PyCharm
 - Friday: add/drop period ends
