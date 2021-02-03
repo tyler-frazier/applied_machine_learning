@@ -14,12 +14,12 @@
 ## Week 2 (2/1)
 - Monday:
 	- Using PyCharm
-		- [Getting Started with Python & Pycharm](https://tyler-frazier.github.io/dsbook/pystart.html)
+		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 	- For next time:
 	  	- [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0)
 - Wednesday:
   	- Using PyCharm
-		- [Getting Started with Python & Pycharm](https://tyler-frazier.github.io/dsbook/pystart.html)
+		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 - Friday: add/drop period ends
 	- Using PyCharm
 
