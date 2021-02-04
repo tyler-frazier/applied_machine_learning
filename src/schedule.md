@@ -16,10 +16,12 @@
 	- Using PyCharm
 		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 	- For next time:
-	  	- [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0)
+	  	- Lecture 1 - [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0)
 - Wednesday:
   	- Using PyCharm
 		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
+  	- For next time:
+  		- Lecture 2 - [First Steps in Computer Vision by Laurence Maroney](https://www.youtube.com/watch?v=j-35y1M9rRU)
 - Friday: add/drop period ends
 	- Using PyCharm
 
