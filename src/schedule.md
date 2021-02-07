@@ -28,7 +28,19 @@
   			- [Six homes in Mathews download](https://github.com/tyler-frazier/applied_machine_learning/raw/master/dailies/Archive.zip)
   		- Lecture 2 - [First Steps in Computer Vision by Laurence Maroney](https://www.youtube.com/watch?v=j-35y1M9rRU)
 - Friday: add/drop period ends
-	- Using PyCharm
+	- For next time:
+	  	- Response (Upload your response to your, public facing, GitHub pages site).
+	  		- In the video, First steps in computer vision, Laurence Maroney introduces us to the Fashion MNIST data set and using it to train a neural network in order to teach a computer “how to see.” One of the first steps towards this goal is splitting the data into two groups, a set of training images and training labels and then also a set of test images and test labels. Why is this done? What is the purpose of splitting the data into a training set and a test set?
+	  		- The fashion MNIST example has increased the number of layers in our neural network from 1 in the past example, now to 3. The last two are .Dense layers that have activation arguments using the relu and softmax functions. What is the purpose of each of these functions. Also, why are there 10 neurons in the third and last layer in the neural network.
+	  		- In the past example we used the optimizer and loss function, while in this one we are using the function adam in the optimizer argument and sparse_categorical- crossentropy for the loss argument. How do the optimizer and loss functions operate to produce model parameters (estimates) within the model.compile() function?
+	  		- Using the mnist drawings dataset (the dataset with the hand written numbers with corresponding labels) answer the following questions.
+	  			- What is the shape of the images training set (how many and the dimension of
+   each)?
+	  			- What is the length of the labels training set?
+	  			- What is the shape of the images test set?
+	   			- Estimate a probability model and apply it to the test set in order to produce the array of probabilities that a randomly selected image is each of the possible numeric outcomes (look towards the end of the basic image classification exercises for how to do this — you can apply the same method applied to the Fashion MNIST dataset but now apply it to the hand written letters MNIST dataset).
+			- Use np.argmax() with your predictions object to return the numeral with the highest probability from the test labels dataset.
+	  		- Produce a histogram for your randomly selected image that illustrates the probability of that imaging being the selected number
 
 ## Week 3 (2/8)
 - Monday:
