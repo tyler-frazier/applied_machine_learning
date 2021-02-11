@@ -44,9 +44,24 @@
 
 ## Week 3 (2/8)
 - Monday:
-	- Module 1.1
+	- review fashion_mnist and mnist responses nn
 - Wednesday:
-	- Module 1.1
+	- workshop
+	- Stretch Goal: Mini-Project 1 (due date, Sunday midnight)
+		- Create a new project folder and setup it up to use the 3.9.1 python interpreter
+		- Download these [files](https://github.com/tyler-frazier/applied_machine_learning/raw/master/dailies/miniprj.zip)
+		- Also download the [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+		- Create and name three new folders in your new project folder, and add the following files.
+			- yolo-coco: `coco.names`, `yolov3.cfg`, `yolov3.weights`
+			- videos: `rockstar.mp4`
+			- output-videos: leave empty for now
+		- Install the needed packages (use opencv-contrib-python for cv2)
+		- Modify the script `soc_dis_det.py` as needed and run it on the included `.mp4` file
+		- Choose your own `.mp4` file and use it instead of the included video to execute the script.
+		- Upload your output to GitHub (or include a link to YouTube), create a link to a new Page and answer the following questions
+		  - Was your social distance detector effective at detecting potential violations?  Are you able to describe how the distance detector is applying its calculations of either being safe or noting a violation?
+		  - Do you think this approach would be effective for estimating new infections in real time? How would you implement such an approach in response to the COVID-19 pandemic we are currently experiencing?
+		  - What limitations or improvements might you include in order to improve your proposed design?
 - Friday: Spring Break Day, No Class (2/12)
 
 ## Week 4 (2/15)
