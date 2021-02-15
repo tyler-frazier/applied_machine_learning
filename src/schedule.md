@@ -66,7 +66,9 @@
 
 ## Week 4 (2/15)
 - Monday:
-	- Module 1.2
+	- Mini-Project 1
+	- For next time:
+		- Lecture 3 - [Convolutions and pooling by Laurence Maroney](https://www.youtube.com/watch?v=PCgLmzkRM38)
 - Wednesday:
 	- Module 1.2
 - Friday:
