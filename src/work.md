@@ -9,6 +9,7 @@
 - [Victoria Chang](https://victoyyc.github.io/DATA-310/)
 - [Alejandro Eulacio](https://ale-eulacio.github.io/data310/)
 - [Dominic Skeete](https://daskeete.github.io/daskeete_data_310/)
+- [Sarah Grace Lott](https://sglott.github.io/Data310_workbook/)
 - [J.Mo Yang](https://jmoyang.github.io/DATA310/)
 - [Jacinta Das](https://jpdas18.github.io/Applied-Machine-Learning/)
 - [Suditi Shyamsunder](https://suditishyamsunder.github.io/DATA310/)
@@ -23,5 +24,4 @@
 - [Pablo Solano](https://pablo.codes/appml)
 - [Tommy Williams](https://ktwilliams15.github.io/Responses/)
 - [Richard Bartlett](https://rj-bartlett.github.io/Data310/)
-- [Sarah Grace Lott](...)
 - [Margaret Delaney](...)
