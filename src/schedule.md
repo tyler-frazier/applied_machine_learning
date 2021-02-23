@@ -94,7 +94,7 @@
 - Wednesday:
 	- Module 1.3
 - Friday:
-	- Project 1
+	- Complete Module 1
 
 ## Week 6 (3/1)
 - Monday:
