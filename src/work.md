@@ -1,8 +1,9 @@
 # Links to Responses
 
+- [Wayne Wu](https://dwurian.github.io/DATA-310/)
+- [Amy Hilla](https://aehilla.github.io/data310_spring2021/)
 - [Jeremy Swack](https://jeremy-swack.github.io/applied-machine-learning/)
 - [Jacinta Das](https://jpdas18.github.io/Applied-Machine-Learning/)
-- [Amy Hilla](https://aehilla.github.io/data310_spring2021/)
 - [Natalie Larsen](https://natallzl.github.io/data310/)
 - [Dominic Skeete](https://daskeete.github.io/daskeete_data_310/)
 - [Jacob Atagi](https://jdatagi.github.io/Data_310/)
@@ -11,7 +12,6 @@
 - [Alleah Thornhill](https://alleahsoleil.github.io/Applied_Machine_Learning/)
 - [Conrad Ning](https://cning0506.github.io/DATA-310_Applied_Machine_Learning/)
 - [Austin Anderson](https://aa-battery.github.io/Applied-Machine-Learning/)
-- [Wayne Wu](https://dwurian.github.io/DATA-310/)
 - [Pablo Solano](https://pablo.codes/appml)
 - [Andrew Evan](https://andrewevanwm.github.io/DataScience310/)
 - [Suditi Shyamsunder](https://suditishyamsunder.github.io/DATA310/)
