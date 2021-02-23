@@ -22,3 +22,6 @@
 - [Rachel Li](https://github.com/rrrrli/DATA_310)
 - [Tommy Williams](https://ktwilliams15.github.io/Responses/)
 - [Sarah Grace Lott](...)
+- [Richard Bartlett](https://rj-bartlett.github.io/Data310/)
+- [Margaret Delaney](...)
+- [Emma Schmidt](...)
