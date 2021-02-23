@@ -1,6 +1,6 @@
 # Links to Responses
 
-- [Wayne Wu](https://dwurian.github.io/DATA-310/) +
+- [Wayne Wu](https://dwurian.github.io/DATA-310/) ++
 - [Frank Qiu](https://frank-q-00.github.io/Data-310/)
 - [Amy Hilla](https://aehilla.github.io/data310_spring2021/)
 - [Natalie Larsen](https://natallzl.github.io/data310/)
@@ -9,7 +9,7 @@
 - [Victoria Chang](https://victoyyc.github.io/DATA-310/)
 - [Alejandro Eulacio](https://ale-eulacio.github.io/data310/)
 - [Dominic Skeete](https://daskeete.github.io/daskeete_data_310/)
-- [Sarah Grace Lott](https://sglott.github.io/Data310_workbook/)
+- [Sarah Grace Lott](https://sglott.github.io/Data310_workbook/) +
 - [J.Mo Yang](https://jmoyang.github.io/DATA310/)
 - [Jacinta Das](https://jpdas18.github.io/Applied-Machine-Learning/)
 - [Suditi Shyamsunder](https://suditishyamsunder.github.io/DATA310/)
