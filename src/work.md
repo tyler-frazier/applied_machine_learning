@@ -1,9 +1,9 @@
 # Links to Responses
 
+- [Natalie Larsen](https://natallzl.github.io/data310/) ++
 - [Wayne Wu](https://dwurian.github.io/DATA-310/) ++
 - [Frank Qiu](https://frank-q-00.github.io/Data-310/)
 - [Amy Hilla](https://aehilla.github.io/data310_spring2021/)
-- [Natalie Larsen](https://natallzl.github.io/data310/)
 - [Conrad Ning](https://cning0506.github.io/DATA-310_Applied_Machine_Learning/)
 - [Andrew Evan](https://andrewevanwm.github.io/DataScience310/)
 - [Victoria Chang](https://victoyyc.github.io/DATA-310/)
