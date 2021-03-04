@@ -113,6 +113,15 @@
 	- Module 2.1
 - Wednesday:
 	- Project 1 due
+	- For next time:
+		- [R warm-up exercise](https://tyler-frazier.github.io/dsbook/rstart.html#creating-a-more-complicated-plot-while-also-creating-and-then-using-a-data-frame)
+		- [Create a DHS account](https://dhsprogram.com/data/dataset_admin/login_main.cfm?CFID=20207729&CFTOKEN=12c58a1ece6a16a6-D441CCAC-D284-DBF3-C59B94AD3BD48730)
+		- [Select a country](https://dhsprogram.com/data/available-datasets.cfm)
+		  	- Standard DHS, Phase V or newer is best
+		- [Request DHS data](https://dhsprogram.com/data/dataset_admin/index.cfm?action=createproject)
+			- After logging into your account: (1) select a country; (2) write a brief project proposal in order to request access to the DHS survey data (see below) and then also (3) request access to the center points (shapefiles) for each enumeration area.  Following is a draft proposal you are welcome to modify in order to construct your own request.  You are also welcome to include my name as a project co-researcher.
+			- Proposal boilerplate: I am in an Applied Machine Learning course at William & Mary, where I am constructing models using various types of development and health related data. This data will be used with machine learning models as the basis to investigate different dimensions of human development in [my selected country]. Using results from this model, I will describe health care, education, migration and wealth within [my selected country].  I am also requested the GPS data from the DHS website to produce accurate geospatial population and development models for [my selected country]. Providing access to the corresponding geospatial information for each survey observation would help improve accuracy over a model based solely on  survey data without coordinates.
+
 - Friday: Post Spring Break Day, Open Session / Workshop (3/5)
 
 ## Week 7 (3/8)
