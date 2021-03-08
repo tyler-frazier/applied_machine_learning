@@ -110,7 +110,7 @@
 
 ## Week 6 (3/1)
 - Monday:
-	- Module 2.1
+	- Module 2
 - Wednesday:
 	- Project 1 due
 	- For next time:
@@ -126,62 +126,62 @@
 
 ## Week 7 (3/8)
 - Monday:
-	- Module 2.2
+	- Module 2
 - Wednesday:
-	- Module 2.2
+	- Module 2
 - Friday:
-	- Module 2.2
+	- Module 2
 
 ## Week 8 (3/15)
 - Monday:
-	- Module 2.3
+	- Module 2
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
 	- Project 2
 
 ## Week 9 (3/22)
 - Monday:
-	- Module 3.1
+	- Module 3
 - Wednesday:
-	- Module 3.1
+	- Module 3
 - Friday:
-	- Module 3.1
+	- Module 3
 
 ## Week 10 (3/29)
 - Monday:
-	- Module 3.2
+	- Module 3
 - Wednesday:
-	- Module 3.2
+	- Module 3
 - Friday:
-	- Module 3.2
+	- Module 3
 
 ## Week 11 (4/5)
 - Monday:
-	- Module 3.3
+	- Module 3
 - Wednesday: Spring Break Day, No Class (4/7)
 - Friday:
 	- Project 3
 
 ## Week 12 (4/12)
 - Monday:
-	- Module 4.1
+	- Module 4
 - Wednesday:
-	- Module 4.1
+	- Module 4
 - Friday:
-	- Module 4.1
+	- Module 4
 
 ## Week 13 (4/19)
 - Monday:
-	- Module 4.2
+	- Module 4
 - Wednesday:
-	- Module 4.2
+	- Module 4
 - Friday:
-	- Module 4.2
+	- Module 4
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, No Class
 - Wednesday:
-	- Module 4.3
+	- Module 4
 - Friday:
 	- Project 4
 
