@@ -143,7 +143,6 @@
 		- Pivot the persons columns within your households data to a long format in order to produce a similarly specified dataset that describes all persons residing within all households.
 		- Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.
 
-wealth <- households$hv270
 - Friday:
 	- Module 2
 
@@ -152,7 +151,7 @@ wealth <- households$hv270
 	- Module 2
 - Wednesday: Spring Break Day, No Class (3/17)
 - Friday:
-	- Project 2
+	- Module 2
 
 ## Week 9 (3/22)
 - Monday:
