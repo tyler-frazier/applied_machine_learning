@@ -126,9 +126,28 @@
 
 ## Week 7 (3/8)
 - Monday:
-	- Module 2
+	- Request the DHS data
 - Wednesday:
-	- Module 2
+	- Data wrangling and analysis
+	- For next time:
+		- Import the households dataset for your selected country and create a data frame with a variable that describes each of the following.
+			- household ID
+		  	- unit 
+		  	- weights 
+		  	- location
+		  	- size
+			- gender
+			- age
+			- education
+			- wealth
+		- Pivot the persons columns within your households data to a long format in order to produce a similarly specified dataset that describes all persons residing within all households.
+		- Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.
+
+# your_variable <- households[ ,seq(from = 450, to = 550, by = 20)] #script to extract variables as sequence
+# which( colnames(households)=="hv104_01" )
+# which( colnames(households)=="hv104_53" )
+
+wealth <- households$hv270
 - Friday:
 	- Module 2
 

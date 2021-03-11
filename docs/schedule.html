@@ -405,14 +405,39 @@ each)?</li>
 <ul>
 <li>Monday:
 <ul>
-<li>Module 2</li>
+<li>Request the DHS data</li>
 </ul>
 </li>
 <li>Wednesday:
 <ul>
-<li>Module 2</li>
+<li>Data wrangling and analysis</li>
+<li>For next time:
+<ul>
+<li>Import the households dataset for your selected country and create a data frame with a variable that describes each of the following.
+<ul>
+<li>household ID</li>
+<li>unit </li>
+<li>weights </li>
+<li>location</li>
+<li>size</li>
+<li>gender</li>
+<li>age</li>
+<li>education</li>
+<li>wealth</li>
 </ul>
 </li>
+<li>Pivot the persons columns within your households data to a long format in order to produce a similarly specified dataset that describes all persons residing within all households.</li>
+<li>Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#your_variable---households-seqfrom--450-to--550-by--20-script-to-extract-variables-as-sequence" id="your_variable---households-seqfrom--450-to--550-by--20-script-to-extract-variables-as-sequence">your_variable &lt;- households[ ,seq(from = 450, to = 550, by = 20)] #script to extract variables as sequence</a></h1>
+<h1><a class="header" href="#which-colnameshouseholdshv104_01-" id="which-colnameshouseholdshv104_01-">which( colnames(households)==&quot;hv104_01&quot; )</a></h1>
+<h1><a class="header" href="#which-colnameshouseholdshv104_53-" id="which-colnameshouseholdshv104_53-">which( colnames(households)==&quot;hv104_53&quot; )</a></h1>
+<p>wealth &lt;- households$hv270</p>
+<ul>
 <li>Friday:
 <ul>
 <li>Module 2</li>
