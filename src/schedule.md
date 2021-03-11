@@ -143,10 +143,6 @@
 		- Pivot the persons columns within your households data to a long format in order to produce a similarly specified dataset that describes all persons residing within all households.
 		- Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.
 
-# your_variable <- households[ ,seq(from = 450, to = 550, by = 20)] #script to extract variables as sequence
-# which( colnames(households)=="hv104_01" )
-# which( colnames(households)=="hv104_53" )
-
 wealth <- households$hv270
 - Friday:
 	- Module 2
