@@ -161,11 +161,15 @@
 
 ## Week 9 (3/22)
 - Monday:
-	- Module 3
+  	- Fore next time:
+  		- Download the administrative subdivision for your selected country. [Download GADM ADMs](https://tyler-frazier.github.io/dsbook/describe.html#projecting-plotting-and-labelling-administrative-subdivisions)
+  		- Download the population raster from Worldpop for your selected county following these instructions. [Download population geospatial raster from Worldpop](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
+		- Download the 12 rasters from your selected country and stack them following these instructions. [Downloading geospatial rasters from Worldpop](https://tyler-frazier.github.io/dsbook/describe.html#acquiring-modifying-and-describing-the-data)
+		- Produce a raster stack and calculate summary statistics using the script posted to our slack channel
 - Wednesday:
-	- Module 3
+	- Project 2, due
 - Friday:
-	- Module 3
+	- Prep raster stack for Module 3
 
 ## Week 10 (3/29)
 - Monday:
