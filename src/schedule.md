@@ -158,6 +158,8 @@
 		- Using the python script provided, train a gradient boosting model using decision trees with the tensorflow estimator.  Provide evaluative metrics including a measure of accuracy and AUC.  Produce the predicted probabilities plot as well as the ROC curve for each wealth outcome and interpret these results.
 		- Analyze all four models.  According to the evaluation metrics, which model produced the best results?  Were there any discrepancies among the five wealth outcomes from your DHS survey dataset?
 - Friday:
+	- Project 2
+		- workshop, continue with penalized logistic regression and random forest in R and linear estimation and boosted trees with stochastic gradient descent in python
 
 ## Week 9 (3/22)
 - Monday:
