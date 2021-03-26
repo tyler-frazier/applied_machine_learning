@@ -1,9 +1,9 @@
 # Links to Responses
 
 - [Amy Hilla](https://aehilla.github.io/data310_spring2021/) ++
+- [Emma Schmidt](https://emma-schmidt.github.io/DATA310/) +~
 - [Victoria Chang](https://victoyyc.github.io/DATA-310/) +
 - [Natalie Larsen](https://natallzl.github.io/data310/) +
-- [Emma Schmidt](https://emma-schmidt.github.io/DATA310/) +
 - [Wayne Wu](https://dwurian.github.io/DATA-310/)
 - [Alleah Thornhill](https://alleahsoleil.github.io/Applied_Machine_Learning/)
 - [Sarah Grace Lott](https://sglott.github.io/Data310_workbook/)
