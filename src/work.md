@@ -24,4 +24,4 @@
 - [J.Mo Yang](https://jmoyang.github.io/DATA310/)
 - [Rachel Li](https://github.com/rrrrli/DATA_310)
 - [Tommy Williams](https://ktwilliams15.github.io/Responses/)
-- [Margaret Delaney](...)
+- [Margaret Delaney](https://mmdelaney.github.io/DATA-310/)
