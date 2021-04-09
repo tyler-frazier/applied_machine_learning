@@ -176,26 +176,30 @@
 
 ## Week 10 (3/29)
 - Monday:
-	- Module 3
+	- Module 3 Applying Geospatial Covariates to predicting populations
 - Wednesday:
-	- Module 3
+	- Module 3 Applying Geospatial Covariates to predicting populations
 - Friday:
-	- Module 3
+	- Module 3 Applying Geospatial Covariates to predicting populations
 
 ## Week 11 (4/5)
 - Monday:
-	- Module 3
+	- Module 3 Applying Geospatial Covariates to predicting populations
 - Wednesday: Spring Break Day, No Class (4/7)
 - Friday:
-	- Project 3
+	- Project 3 Applying Geospatial Covariates to predicting populations
 
 ## Week 12 (4/12)
 - Monday:
-	- Module 4
+	- Module 3 Applying Geospatial Covariates to predicting populations
 - Wednesday:
-	- Module 4
+	- Module 3 Applying Geospatial Covariates to predicting populations
 - Friday:
-	- Module 4
+	- Project 3, due by midnight
+		- Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country
+		- Validate the two models using different methods presented in this class
+		- Write a report assessing the two approaches and which of the two models was more accurate
+		- Be sure to account for spatial variation throughout your selected location and provide substantive explanations for why those variations occurred
 
 ## Week 13 (4/19)
 - Monday:
