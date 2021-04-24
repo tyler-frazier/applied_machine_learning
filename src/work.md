@@ -30,7 +30,7 @@ Sophomores
 - [Suditi Shyamsunder](https://suditishyamsunder.github.io/DATA310/)
 - [Rachel Li](https://rrrrli.github.io/DATA_310/)
 
-Freshmen
+Freshpersons
 - [Jeremy Swack](https://jeremy-swack.github.io/applied-machine-learning/)
   
 
