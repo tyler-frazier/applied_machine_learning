@@ -10,7 +10,6 @@ Seniors
 - [Margaret Delaney](https://mmdelaney.github.io/DATA-310/)
 - [Austin Anderson](https://aa-battery.github.io/Applied-Machine-Learning/)
 - [Wayne Wu](https://dwurian.github.io/DATA-310/)
-- [Conrad Ning](https://cning0506.github.io/DATA-310_Applied_Machine_Learning/)
 - [Andrew Evan](https://andrewevanwm.github.io/DataScience310/)
 - [Alejandro Eulacio](https://ale-eulacio.github.io/data310/)
 - [Sean Frankel](https://seanf879.github.io/Sean-s-Lab/)
@@ -21,6 +20,7 @@ Seniors
 
 Juniors
 - [Victoria Chang](https://victoyyc.github.io/DATA-310/)
+- [Conrad Ning](https://cning0506.github.io/DATA-310_Applied_Machine_Learning/)
 - [Dominic Skeete](https://daskeete.github.io/daskeete_data_310/)
 - [Frank Qiu](https://frank-q-00.github.io/Data-310/)
 - [Pablo Solano](https://pablo.codes/appml)
