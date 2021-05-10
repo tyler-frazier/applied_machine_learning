@@ -2,7 +2,7 @@
 
 ## Summary
 
-For the final assignment of this course, record an eight to twelve minute presentation of your research plan. Your recorded presentation will be due 5PM on May 18th.
+For the final assignment of this course, record an eight to twelve minute presentation of your research plan. Your recorded presentation will be due by 5PM on May 18th.
 
 ### Step 1. Write an abstract and give your presentation a title
 
