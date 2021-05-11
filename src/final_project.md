@@ -22,5 +22,5 @@ Prepare to speak eight to twelve minutes and include at least one presentation s
 
 #### Step 3. Record your presentation
 
-Record your eight to twelve minute long presentation and provide a link to it via your zoom or panopto folder.  Send you link to me as a message in slack in advance of the May 18th deadline. 
+Record your eight to twelve minute long presentation and provide a link to it via your zoom or panopto folder.  Using any combined screen and audio recording device is perfectly acceptable (Mac, Windows, Linux).  Send your link to me as a message in slack in advance of the May 18th deadline. 
 
