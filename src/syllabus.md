@@ -4,9 +4,9 @@ Course ID: DATA 310
 Course Attribute: None  
 Title: Applied Machine Learning  
 Credit Hours: 3  
-Meeting Times: 12:00 to 12:50 MWF  
+Meeting Times: 10:10 to 12:00 MTWTh  
 Location: Remote Synchronous Off-Campus  
-Date Range: Spring Semester 2021  
+Date Range: Summer II Semester 2021  
 
 # Course Description
 
