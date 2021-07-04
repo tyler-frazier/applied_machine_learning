@@ -13,15 +13,15 @@
 
 - Wednesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 - Close early
 	- For tomorrow
 		- ...
 
 - Thursday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
@@ -35,29 +35,29 @@
 
 - Monday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Tuesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Wednesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Thursday: 
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
@@ -71,29 +71,29 @@
 
 - Monday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Tuesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Wednesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Thursday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
@@ -107,29 +107,29 @@
 
 - Monday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Tuesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Wednesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Thursday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
@@ -143,29 +143,29 @@
 
 - Monday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Tuesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Wednesday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
 - Thursday:
 	- 10:10 to 11:00 - Exercise
-	- 1:30 to 2:00 - Small groups
-	- 2:00 to 2:20 - Reconvene
+	- 11:00 to 11:30 - Small groups
+	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
 		- ...
 
