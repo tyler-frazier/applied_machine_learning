@@ -4,8 +4,6 @@
 
 - Tuesday:
 	- 10:10 to 11:00 - Getting Started
-		- Installing python, a package manager and PyCharm
-		- Using GitHub
 	- 11:00 to 11:30 - Small groups
 	- 11:30 to 12:00 - Reconvene
 	- For tomorrow
