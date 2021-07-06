@@ -83,7 +83,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div id="sidebar-scrollbox" class="sidebar-scrollbox">
-                <ol class="chapter"><li class="expanded affix "><a href="syllabus.html">Course Description</a></li><li class="expanded affix "><a href="schedule_summer21.html">Semester Schedule</a></li><li class="expanded affix "><a href="module1.html">Module 1</a></li><li class="expanded affix "><a href="project2.html">Module 2</a></li><li class="expanded affix "><a href="project3.html">Module 3</a></li><li class="expanded affix "><a href="project4.html">Module 4</a></li><li class="expanded affix "><a href="final.html">Final Project</a></li><li class="expanded affix "><a href="students_summer21.html">Student Work - summer 2021</a></li><li class="expanded affix "><a href="students_spring21.html">Student Work - spring 2021</a></li><li class="expanded affix "><a href="students_summer20.html">Student Work - summer 2020</a></li></ol>
+                <ol class="chapter"><li class="expanded affix "><a href="syllabus.html">Course Description</a></li><li class="expanded affix "><a href="schedule_summer21.html">Semester Schedule</a></li><li class="expanded "><a href="module1.html"><strong aria-hidden="true">1.</strong> Module 1</a></li><li><ol class="section"><li class="expanded "><a href="tuesday1.html"><strong aria-hidden="true">1.1.</strong> Tuesday</a></li><li class="expanded "><a href="wednesday1.html"><strong aria-hidden="true">1.2.</strong> Wednesday</a></li><li class="expanded "><a href="thursday1.html"><strong aria-hidden="true">1.3.</strong> Thursday</a></li></ol></li><li class="expanded "><a href="module2.html"><strong aria-hidden="true">2.</strong> Module 2</a></li><li class="expanded "><a href="module3.html"><strong aria-hidden="true">3.</strong> Module 3</a></li><li class="expanded "><a href="module4.html"><strong aria-hidden="true">4.</strong> Module 4</a></li><li class="expanded "><a href="final.html"><strong aria-hidden="true">5.</strong> Final Project</a></li><li class="expanded affix "><a href="students_summer21.html">Student Work - summer 2021</a></li><li class="expanded affix "><a href="students_spring21.html">Student Work - spring 2021</a></li><li class="expanded affix "><a href="students_summer20.html">Student Work - summer 2020</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -583,9 +583,83 @@ print(tf.__version__)
 </li>
 </ul>
 <p>Be prepared to discuss during tomorrow's class.</p>
-<h1><a class="header" href="#project-2" id="project-2">Project 2</a></h1>
-<h1><a class="header" href="#project-3" id="project-3">Project 3</a></h1>
-<h1><a class="header" href="#project-4" id="project-4">Project 4</a></h1>
+<h1><a class="header" href="#module-1-week-1-1" id="module-1-week-1-1">Module 1 (Week 1)</a></h1>
+<h2><a class="header" href="#tuesday-1" id="tuesday-1">Tuesday</a></h2>
+<ul>
+<li><strong>Download and install python 3.9.6</strong><br />
+The simplest way to install the latest version of python is by going to their website, <a href="https://www.python.org/">python.org</a> and downloading the most recent version.  After arriving at the main python.org landing page you should find a tab linking to the download for Python 3.9.6.  Once there, download and install the latest version of python for your Mac or Windows system.</li>
+<li><strong>Download and install PyCharm Professional Version</strong><br />
+In this class we will use the integrated developer's environment (IDE), which goes by the name of PyCharm.  Go to the <a href="https://www.jetbrains.com/pycharm/">jetbrains.org</a> website and download the Professional version for your Mac or Windows system.  After installing PyCharm, launch it from your applications folder.  You can use the <em>evaluate for free</em> button for now, until you obtain your JetBrains educational license.</li>
+<li><strong>Set the python interpreter</strong><br />
+After launching PyCharm, select <em>new project</em>, and give your project a name (perhaps DATA310), and for the python interpreter, select <em>previously configured interpreter</em> and choose the <code>...</code> tab to the right of the interpreter drop down menu.  This tab will bring you to a new window, where you will want to select the <em>system interpreter</em> option on the left option bar.  Hopefully the option for <em>python3.9</em> already appears in the interpreter drop down menu.  If not, you will likely need to select the <code>...</code> tab to the right again, and manually select the python3.9 interpreter from within your file system.  On a Mac the path to the version of python you installed in step 1 is likely <code>/usr/local/bin/python3.9</code>.  Once your python 3.9.6 interpreter has been selected, then click on the <em>OK</em> button in the bottom right hand corner.</li>
+</ul>
+<p><img src="images/newproj.png" alt="new project window" />
+<img src="images/sysint.png" alt="selecting the system interpreter" />
+<img src="images/newpy.png" alt="creating a new python script" /></p>
+<ul>
+<li>Confirm your python session
+After creating a new script, click on the python console at the bottom of the screen and confirm your environment is using python 3.9.6.  In your new script, add a line where you send a command to the interpreter.</li>
+</ul>
+<pre><code>2 + 2
+</code></pre>
+<p>The easiest way to execute the line of code is to make sure the cursor os on that line and then use the <em>alt-shift-E</em> combination in order to send the command to the interpreter for a result.  Alternatively, you can option click (right click or two finger click) on the line and select the <em>execute line in python console</em> option.</p>
+<p>If python returns the correct answer, then it appears you have properly configured your environment.</p>
+<ul>
+<li>Install a new package
+Your PyCharm IDE includes a package manager that makes package installation and updating fairly simple.  To install a new package click on the <em>preferences</em> tab under your PyCharm pull down menu and then select the <em>Project</em> tab.  Under the project tab you should see a subtab called <em>Python Interpreter</em> and off to the right, two packages that have already been installed.  First, make sure both of these packages (should be <em>pip</em> and <em>setuptools</em>) have the most up to date version installed, and if not, use the up arrow symbol to upgrade each package to its latest version.  Next select the <em>+</em> button to install a new package.  Type <em>tensorflow</em> in the search window and then select <em>install package</em>.  It might take a minute or two for the <em>tensorflow</em> package to complete its installation process.  You can monitor your IDE's progress at the bottom while waiting for tensorflow to be installed successfully.  After returning to main window of your package manager, you should notice a number of additional dependent packages that were installed in support of tensorflow.  Close the system preferences window and add a new line to your script <code>import tensorflow</code>.  Again, your IDE may take a minute or two in order to execute the command for the first time, but once complete, you should see the <code>&gt;&gt;&gt;</code> indication that your interpreter is ready to execute a command.  If you click on the progress bar, it is possible to review the background tasks that involve updating the interpreter.  After the system finishes add a few lines to your script and confirm the output.</li>
+</ul>
+<pre><code># TensorFlow and tf.keras
+import tensorflow as tf
+
+# Helper libraries
+import numpy as np
+import matplotlib.pyplot as plt
+
+print(tf.__version__)
+</code></pre>
+<p><img src="images/install.png" alt="importing libraries" /></p>
+<ul>
+<li>Next go to the JetBrains webpage and register for an <a href="https://www.jetbrains.com/shop/eform/students">educational license</a>.  After receiving your license, return to the <em>Welcome to PyCharm</em> page and click on the gear symbol in the bottom left hand corner, where you will find the option to <em>manage licenses</em>.  Enter your license to register your Professional version of PyCharm.</li>
+</ul>
+<p><img src="images/license.png" alt="importing libraries" /></p>
+<ul>
+<li>
+<p>Next install the JetBrains IDE <a href="https://www.jetbrains.com/webstorm/">WebStorm</a> for interacting with your GitHub account.  Webstorm is a good IDE for producing markdown files for publishing in your public facing GitHub pages site.</p>
+</li>
+<li>
+<p>Next, if you don't already have one, create a <a href="https://github.com">GitHub</a> account.  Once you have a GitHub account, create a new repository.  Perhaps call it <em>data310</em>.  Each repository needs to have a <code>README.md</code> file in its root directory.  Be sure to create one, which you can use as the index for your repository of formal and informal assignments.</p>
+</li>
+<li>
+<p>Go to the settings tab in your repository and click on the <em>pages</em> tab in the left hand pane.  Set the branch to main, save your GitHub pages and then note where your site has been published.  Click on the link and reload it, until it appears.  Sometimes this can take a minute or two.</p>
+</li>
+</ul>
+<p><img src="images/pages.png" alt="importing libraries" /></p>
+<ul>
+<li>In the main page of your repository open the <em>code</em> tab and copy the <em>HTTPS</em> address that you will use to link your repository to WebStorm via version control.  Go back to the <em>Welcome to Webstorm</em> page and select the <em>Get from VCS</em> tab.  Paste your <em>HTTPS</em> address into the URL field in order to clone your GitHub pages repository.</li>
+</ul>
+<p><img src="images/vcs.png" alt="importing libraries" /></p>
+<ul>
+<li>Once you have cloned the repository from your GitHub account, you have a local project that can be modified and then those changes can be <em>pushed</em> to the GitHub repo for publishing via GitHub Pages (which happens automatically through something called the Jekyll engine).  Go ahead and modify your <code>README.md</code> file by setting it up as the index for your informal and formal assignments.  Perhaps your index looks something like the following.  Note how I created the <code>wwek1.md</code> file and linked it in the index.</li>
+</ul>
+<p><img src="images/index.png" alt="importing libraries" /></p>
+<p>Markdown is fairly simple to learn.  Here is a <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">guide</a>.</p>
+<p>Now <em>push</em> those changes to your repository by selecting the commit tab on the left hand side, highlighting all the falls you have changed to commit, add a commit message , and then select the <em>commit and push</em> tab.  You may need to add your user name, e-mail and authorize your account.  Now go back to your GitHub pages webaddress and notice that the changes have taken place.</p>
+<p><img src="images/webpage.png" alt="importing libraries" /></p>
+<ul>
+<li>Finally, go back to PyCharm and create a new python script.  Go to the tensorflow webpage at <a href="https://www.tensorflow.org/tutorials/keras/classification">https://www.tensorflow.org/tutorials/keras/classification</a>, read and reproduce the script in PyCharm and run it.  Answer the following questions about the dataset. 
+<ul>
+<li>What is the shape of the images training set (how many and the dimension of each)?</li>
+<li>What is the length of the labels training set? </li>
+<li>What is the shape of the images test set?</li>
+</ul>
+</li>
+</ul>
+<p>Be prepared to discuss during tomorrow's class.</p>
+<h1><a class="header" href="#wednesday" id="wednesday">Wednesday</a></h1>
+<h1><a class="header" href="#thursday" id="thursday">Thursday</a></h1>
+<h1><a class="header" href="#module-2" id="module-2">Module 2</a></h1>
+<h1><a class="header" href="#module-3" id="module-3">Module 3</a></h1>
+<h1><a class="header" href="#module-4" id="module-4">Module 4</a></h1>
 <h1><a class="header" href="#present-your-results" id="present-your-results">Present your Results</a></h1>
 <h2><a class="header" href="#summary" id="summary">Summary</a></h2>
 <p>For the final assignment of this course, record an eight to twelve minute presentation of your research plan. Your recorded presentation will be due by 5PM on May 18th.</p>
