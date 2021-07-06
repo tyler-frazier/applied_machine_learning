@@ -1,5 +1,3 @@
-# Module 1 (Week 1)
-
 ## Tuesday
 
 - **Download and install python 3.9.6**  
