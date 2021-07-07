@@ -492,6 +492,27 @@ print(tf.__version__)
 </ul>
 <p>Be prepared to discuss during tomorrow's class.</p>
 <h1><a class="header" href="#wednesday" id="wednesday">Wednesday</a></h1>
+<h2><a class="header" href="#start-with-the-basic-classification-classify-images-of-clothing-script-that-you-prepared-for-todays-class--execute-the-following" id="start-with-the-basic-classification-classify-images-of-clothing-script-that-you-prepared-for-todays-class--execute-the-following">Start with the <em>Basic classification: Classify images of clothing</em> script that you prepared for today's class.  Execute the following.</a></h2>
+<ul>
+<li>From the <em>Preprocess the data</em> section of the script, modify the training image to produce three new images.</li>
+<li>Under the <em>Make predictions</em> section, present the array of predictions for an image from the test set other than the one given in the example script.  What does this array represent? How were the <code>Softmax()</code> and <code>argmax()</code> functions applied?  Read this post from DeepAI, <a href="https://deepai.org/machine-learning-glossary-and-terms/softmax-layer">What is the Softmax function</a> for a description of the two functions (focus on the softmax formula, calculating softmax and the softmax vs. argmax sections).  Does the output from <code>np.argmax()</code> match the label from your <code>test_labels</code> dataset?</li>
+<li>Under the <em>Verify predictions</em> section, plot two additional images (other than either of the two given in the example script) and include the graph of their predicted label as well as the image itself.</li>
+<li>Under the <em>Use the trained model</em> section, again select a new image from the test dataset.  Produce the predictions for this newly selected image.  Does the predicted value match the test label?  Although you applied the <code>argmax()</code> function in this second instance, you did not use <code>Softmax()</code> a second time.  Why is that so (please be specific)?</li>
+</ul>
+<h2><a class="header" href="#copy-the-script-you-produced-for-the-fashion-mnist-dataset--modify-the-script-as-follows-and-produce-the-following-output" id="copy-the-script-you-produced-for-the-fashion-mnist-dataset--modify-the-script-as-follows-and-produce-the-following-output">Copy the script you produced for the Fashion MNIST dataset.  Modify the script as follows and produce the following output.</a></h2>
+<ul>
+<li>Change the line </li>
+</ul>
+<pre><code>fashion_mnist = tf.keras.datasets.fashion_mnist
+</code></pre>
+<p>to </p>
+<pre><code>mnist = tf.keras.datasets.mnist
+</code></pre>
+<p>in order to switch the dataset from sets of clothing to hand written numbers.  Produce a plot of 25 handwritten numbers from the data with their labels indicated below each image.  Fit the model and report the accuracy of the training dataset.  Likewise report the accuracy of the test dataset.  As in the above example, from the <em>Verify predictions</em> section, plot two  images and include the graph of their predicted label as well as the image itself.</p>
+<ul>
+<li>Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset.  Which of the two models is more accurate?  Why do you think this is so?</li>
+</ul>
+<h2><a class="header" href="#for-thursdays-class-reproduce-the-script-on-a-hrefhttpswwwtensorfloworgtutorialskerastext_classificationbasic-text-classificationa--please-read-through-the-script-and-confirm-you-are-able-to-execute-a-basic-inferential-sentiment-analysis" id="for-thursdays-class-reproduce-the-script-on-a-hrefhttpswwwtensorfloworgtutorialskerastext_classificationbasic-text-classificationa--please-read-through-the-script-and-confirm-you-are-able-to-execute-a-basic-inferential-sentiment-analysis">For Thursday's class, reproduce the script on <a href="https://www.tensorflow.org/tutorials/keras/text_classification">Basic Text Classification</a>.  Please read through the script and confirm you are able to execute a basic inferential sentiment analysis.</a></h2>
 <h1><a class="header" href="#thursday" id="thursday">Thursday</a></h1>
 <h1><a class="header" href="#module-2" id="module-2">Module 2</a></h1>
 <h1><a class="header" href="#module-3" id="module-3">Module 3</a></h1>
