@@ -10,13 +10,14 @@
 - [Alexandra MacNamara]()
 - [Aashni Manroa]()
 - [Thomas Miller]()
-- [Alaa Mokbel]()
-- [Ethan Nelson]()
+- [Alaa Mokbel](https://amokbel.github.io/data310/)
+- [Ethan Nelson](https://eanelson01.github.io/DATA310/)
 - [David Olsen]()
 - [Annabel Richter]()
 - [Keny Tran-Luong]()
 - [Gwen Wagner]()
-- [John Willis]()
+- [John Willis](https://johnkwillis.github.io/data310/)
 - [Tyler Yeats]()
+- [Julia Lewis]()
   
 
