@@ -5,6 +5,7 @@
     -  [Tuesday](tuesday1.md)
     -  [Wednesday](wednesday1.md)
     -  [Thursday](thursday1.md)
+    -  [Project 1](project1.md)
 - [Module 2](./module2.md)
 - [Module 3](./module3.md)
 - [Module 4](./module4.md)
