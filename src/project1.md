@@ -2,7 +2,7 @@
 
 ## Using the example script given in class, go to zillow and select several homes to train a model that predicts home price.  
 - For reference watch [What is ML by Laurence Maroney](https://www.youtube.com/watch?v=_Z9TRANg4c0), beginning at about minute 8 with the subsequent housing price exercise presented at the end of the video.  You are also welcome to refer to the beginning part of the second video in this series [First steps in computer vision](https://www.youtube.com/watch?v=j-35y1M9rRU), where the solution to the example housing price exercise is presented.
-- Got to the [Apify zillow scraper](https://my.apify.com/tasks/P272AlfQkMTlQnoHe#/input) and scrape a few hundred home sale listings from any city.  Download the file as a `.csv`.
+- Got to the [Apify zillow scraper](https://apify.com/petr_cermak/zillow-api-scraper) and scrape a few hundred home sale listings from any city.  Download the file as a `.csv`.
 
 ![importing libraries](images/apify.png)
 
