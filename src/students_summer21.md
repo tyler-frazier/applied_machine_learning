@@ -16,7 +16,7 @@
 - [Annabel Richter](https://amartrics.github.io/data-310/)
 - [Gwen Wagner](https://gwen013.github.io/data310/)
 - [John Willis](https://johnkwillis.github.io/data310/)
-- [Tyler Yeats](https://tyeatts75.github.io/Data310/)
+- [Tyler Yeatts](https://tyeatts75.github.io/Data310/)
 - [Julia Lewis](https://gewles.github.io/data310/)
   
 
