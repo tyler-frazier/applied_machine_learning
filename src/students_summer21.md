@@ -14,7 +14,6 @@
 - [Ethan Nelson](https://eanelson01.github.io/DATA310/)
 - [David Olsen](https://dj-olson.github.io/data310/)
 - [Annabel Richter](https://amartrics.github.io/data-310/)
-- [Keny Tran-Luong]()
 - [Gwen Wagner](https://gwen013.github.io/data310/)
 - [John Willis](https://johnkwillis.github.io/data310/)
 - [Tyler Yeats](https://tyeatts75.github.io/Data310/)
