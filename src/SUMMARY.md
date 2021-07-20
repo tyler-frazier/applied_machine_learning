@@ -13,6 +13,9 @@
 - [Module 3](module3.md)
   -  [Monday](monday3.md)
   -  [Tuesday](tuesday3.md)
+  -  [Wednesday](wednesday3.md)
+  -  [Thursday](thursday3.md)
+  -  [Project 3](project3.md)
 - [Module 4](module4.md)
 - [Final Project](finalprj.md)  
 
