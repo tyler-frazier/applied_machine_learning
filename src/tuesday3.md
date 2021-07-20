@@ -1,6 +1,6 @@
 # Tuesday
 
-Using the [Custom training: walkthrough](https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough) script we developed during today's class, write a 1-1/2 to 2-page report that provides a description of the following.
+Using the [Custom training: walkthrough](https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough) script we developed during today's class, write a 1-1/2 to 2-page report that provides a description of the following.  
 
 - the data used in the model
 - how you created the `tf.dataset`
