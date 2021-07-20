@@ -10,9 +10,9 @@
   -  [Monday](monday2.md)
   -  [Tuesday](tuesday2.md)
   -  [Thursday](thursday2.md)
-  -  [Friday](friday2.md)
-  -  [Project 2](project2.md)
 - [Module 3](module3.md)
+  -  [Monday](monday3.md)
+  -  [Tuesday](tuesday3.md)
 - [Module 4](module4.md)
 - [Final Project](finalprj.md)  
 
