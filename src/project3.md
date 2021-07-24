@@ -9,8 +9,6 @@
 ### Step 1.  Define your confusion matrix plot command
 
 ```
-# confusion matrix
-
 def plot_confusion_matrix(cm, classes,
                           normalize=False,
                           title='Confusion matrix',
