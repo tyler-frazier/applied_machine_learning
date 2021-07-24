@@ -669,6 +669,68 @@ mse
 <li>Interpret and analyze your results.  Did the model performance exhibit a particular trend?</li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="project-3"><a class="header" href="#project-3">Project 3</a></h1>
+<ul>
+<li>
+<p>Using either the <a href="https://www.tensorflow.org/tutorials/structured_data/feature_columns">Classify structured data with feature columns</a> script or the <a href="https://www.tensorflow.org/tutorials/structured_data/preprocessing_layers">Classify structured data using Keras Preprocessing Layers</a> with the <code>country_persons.csv</code> dataset, specify, train and evaluate two models that predicts class of wealth versus all other classes as a binary target.  Amongst the five possible binary targets (1 versus all others, 2 versus all other etc...), produce your results from the two models with the best and worst accuracy.</p>
+</li>
+<li>
+<p>Using the two models you produced in step 1, also create a confusion matrix.  You are welcome to use the following script.  With your confusion matrix as a reference analyze and discuss the two sets of results you produced.</p>
+</li>
+<li>
+<p>Again using either the <a href="https://www.tensorflow.org/tutorials/structured_data/feature_columns">Classify structured data with feature columns</a> script or the <a href="https://www.tensorflow.org/tutorials/structured_data/preprocessing_layers">Classify structured data using Keras Preprocessing Layers</a> with the <code>country_persons.csv</code> dataset, specify, train and evaluate a model that predicts all class of wealth outcomes as a categorical target.  Again create a confusion matrix in order to analyze and discuss your results.  Revisit the <a href="https://www.tensorflow.org/tutorials/structured_data/feature_columns">Classify structured data with feature columns</a> script or the <a href="https://www.tensorflow.org/tutorials/structured_data/preprocessing_layers">Classify structured data using Keras Preprocessing Layers</a> in order to modify your feature columns, in attempt to improve the accuracy of your model that uses all five categorical wealth classes as the target.</p>
+</li>
+</ul>
+<h3 id="step-1--define-your-confusion-matrix-plot-command"><a class="header" href="#step-1--define-your-confusion-matrix-plot-command">Step 1.  Define your confusion matrix plot command</a></h3>
+<pre><code># confusion matrix
+
+def plot_confusion_matrix(cm, classes,
+                          normalize=False,
+                          title='Confusion matrix',
+                          cmap=plt.cm.Blues):
+  &quot;&quot;&quot;
+  This function prints and plots the confusion matrix.
+  Normalization can be applied by setting `normalize=True`.
+  &quot;&quot;&quot;
+  import itertools
+  if normalize:
+    cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+    print(&quot;Normalized confusion matrix&quot;)
+  else:
+    print('Confusion matrix, without normalization')
+
+  print(cm)
+
+  plt.imshow(cm, interpolation='nearest', cmap=cmap)
+  plt.title(title)
+  plt.colorbar()
+  tick_marks = np.arange(len(classes))
+  plt.xticks(tick_marks, classes, rotation=45)
+  plt.yticks(tick_marks, classes)
+
+  fmt = '.2f' if normalize else 'd'
+  thresh = cm.max() / 2.
+  for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+    plt.text(j, i, format(cm[i, j], fmt),
+             horizontalalignment=&quot;center&quot;,
+             color=&quot;white&quot; if cm[i, j] &gt; thresh else &quot;black&quot;)
+
+  plt.ylabel('True label')
+  plt.xlabel('Predicted label')
+  plt.tight_layout()
+</code></pre>
+<h3 id="step-2-create-objects-that-describe-the-true-and-predicted-target-values"><a class="header" href="#step-2-create-objects-that-describe-the-true-and-predicted-target-values">Step 2. Create objects that describe the true and predicted target values</a></h3>
+<pre><code>y_true = assign the true target values to this object
+y_pred = assign the predicted target values to this object
+</code></pre>
+<h3 id="step-3-plot-your-confusion-matrix"><a class="header" href="#step-3-plot-your-confusion-matrix">Step 3. Plot your confusion matrix</a></h3>
+<pre><code>cnf_matrix = confusion_matrix(y_true, y_pred,labels=[add labels here])
+np.set_printoptions(precision=2)
+
+plt.figure()
+plot_confusion_matrix(cnf_matrix, classes=[add labels here],
+title='title your plot')
+plt.show()
+</code></pre>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="module-4"><a class="header" href="#module-4">Module 4</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="final-project"><a class="header" href="#final-project">Final Project</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="links-to-responses"><a class="header" href="#links-to-responses">Links to Responses</a></h1>
