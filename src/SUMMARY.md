@@ -17,6 +17,8 @@
   -  [Thursday](thursday3.md)
   -  [Project 3](project3.md)
 - [Module 4](module4.md)
+  -  [Wednesday](wednesday4.md)
+  -  [Thursday](thursday4.md)
 - [Final Project](finalprj.md)  
 
 [Student Work - summer 2021](students_summer21.md)
