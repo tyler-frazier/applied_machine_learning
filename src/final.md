@@ -1,6 +1,6 @@
 # Present your Results
 
-## Summary o
+## Summary
 
 For the final assignment of this course, record an eight to twelve minute presentation of the applied machine learning model you will use as a prototype for your proposed future research plan. Your recorded presentation will be due by 5PM on August 8th.
 
