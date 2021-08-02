@@ -20,7 +20,7 @@
   - [Wednesday](wednesday4.md)
   - [Thursday](thursday4.md)
   - [Project 4](project4.md)
-- [Final Project](finalprj.md)  
+- [Final Project](final.md)  
 
 [Student Work - summer 2021](students_summer21.md)
 [Student Work - spring 2021](students_spring21.md)  

@@ -2,7 +2,7 @@
 
 ## Summary
 
-For the final assignment of this course, record an eight to twelve minute presentation of your research plan. Your recorded presentation will be due by 5PM on May 18th.
+For the final assignment of this course, record an eight to twelve minute presentation of the applied machine learning model you will use as a prototype for your proposed future research plan. Your recorded presentation will be due by 5PM on August 8th.
 
 ### Step 1. Write an abstract and give your presentation a title
 
@@ -22,5 +22,5 @@ Prepare to speak eight to twelve minutes and include at least one presentation s
 
 #### Step 3. Record your presentation
 
-Record your eight to twelve minute long presentation and provide a link to it via your zoom or panopto folder on your GitHub index.  Using any combined screen and audio recording device is perfectly acceptable (Mac, Windows, Linux).  Send your link to me as a message in slack in advance of the May 18th deadline.
+Record your eight to twelve minute long presentation and provide a link to it via your zoom or panopto folder on your GitHub index.  Using any combined screen and audio recording device is perfectly acceptable (Mac, Windows, Linux).  Send your link to me as a message in slack in advance of the August 8th deadline.
 
